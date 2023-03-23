@@ -36,7 +36,7 @@
                 <mxCell id="8" value="i &amp;lt;= n" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
                     <mxGeometry x="190" y="310" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="suma = suma + 1&lt;br&gt;i = i = 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                <mxCell id="10" value="suma = suma + i&lt;br&gt;&amp;nbsp;= i = 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
                     <mxGeometry x="170" y="420" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10">
